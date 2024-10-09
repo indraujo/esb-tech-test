@@ -26,4 +26,4 @@ with browser
 `npx cypress open`
 
 without browser (headless)
-`npx cypress open`
+`npx cypress run`
